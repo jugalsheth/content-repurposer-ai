@@ -80,6 +80,8 @@ Each version is scored for hook strength, engagement, hashtags.
 ### 📱 Platform Previews  
 Live visual previews for LinkedIn, Twitter, YouTube, Newsletters.
 
+<img width="757" alt="Screenshot 2025-05-31 at 11 08 41 PM" src="https://github.com/user-attachments/assets/78edfdc1-7dba-4205-9ae2-98ff864e6e8f" />
+
 ---
 
 ## 🛠 Tech Stack
