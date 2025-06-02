@@ -96,7 +96,7 @@ Live visual previews for LinkedIn, Twitter, YouTube, Newsletters.
 ## 📁 Setup Instructions
 
 
-git clone https://github.com/yourusername/content-repurposer-ai.git
+git clone https://github.com/jugalsheth/content-repurposer-ai.git
 cd content-repurposer-ai
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
